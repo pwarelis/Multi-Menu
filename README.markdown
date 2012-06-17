@@ -11,6 +11,8 @@ How to Use
 Create bootstrap dropdown markup and nest your submenus inside of it. Replace the `data-toggle` attribute with `data-multimenu` and you good to go!
 Don't forget the css file!
 
+Demo on [jsfiddle](http://jsfiddle.net/pwarelis/BHSHs/ "Multi-Menu demo")
+
 Example
 ----------
 
